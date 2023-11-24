@@ -1,2 +1,0 @@
-# pruebacpp
-prueba de c++
